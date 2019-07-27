@@ -1,1 +1,3 @@
 # xanthos
+
+Project Goals
